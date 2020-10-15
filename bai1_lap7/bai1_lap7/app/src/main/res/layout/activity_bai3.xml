@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.percentlayout.widget.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bai3Activity"
+    tools:ignore="MissingClass">
+    <View
+        android:id="@+id/top_left"
+        android:layout_width="210dp"
+        android:layout_height="350dp"
+        android:layout_alignParentTop="true"
+        android:background="#FF9800"
+        />
+
+    <View
+        android:id="@+id/top_right"
+        android:layout_width="210dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/top_left"
+        android:background="#EC0F0F" />
+
+    <View
+        android:id="@+id/top_right2"
+        android:layout_width="210dp"
+        android:layout_height="205dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="147dp"
+        android:layout_toRightOf="@id/top_left"
+        android:background="#4D42E3" />
+
+    <View
+        android:id="@+id/top_below"
+        android:layout_width="413dp"
+        android:layout_height="385dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="-212dp"
+        android:layout_marginTop="346dp"
+        android:layout_toRightOf="@id/top_left"
+        android:background="#F8CF9B" />
+
+</androidx.percentlayout.widget.PercentRelativeLayout>

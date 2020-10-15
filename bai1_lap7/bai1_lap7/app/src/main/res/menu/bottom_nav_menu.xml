@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/icon1"
+        android:icon="@drawable/lammoi"
+        android:title="Mới nhất  " />
+
+    <item
+        android:id="@+id/icon2"
+        android:icon="@drawable/tim"
+        android:title="Yêu thích" />
+
+    <item
+        android:id="@+id/icon3"
+        android:icon="@drawable/ngaunhien"
+        android:title="Ngẫu " />
+
+</menu>

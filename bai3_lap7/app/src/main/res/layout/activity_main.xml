@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.percentlayout.widget.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <View
+        android:id="@+id/top_left"
+        android:layout_width="210dp"
+        android:layout_height="350dp"
+        android:layout_alignParentTop="true"
+        android:background="#d82a36"
+        />
+
+    <View
+        android:id="@+id/top_right"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/top_left"
+        android:background="#bd2ad8" />
+
+    <View
+        android:id="@+id/top_right2"
+        android:layout_width="match_parent"
+        android:layout_height="205dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="147dp"
+        android:layout_toRightOf="@id/top_left"
+        android:background="#061304" />
+
+    <View
+
+        android:id="@+id/top_below"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="-212dp"
+        android:layout_marginTop="346dp"
+        android:layout_toRightOf="@id/top_left"
+        android:background="#46e036" />
+
+</androidx.percentlayout.widget.PercentRelativeLayout>

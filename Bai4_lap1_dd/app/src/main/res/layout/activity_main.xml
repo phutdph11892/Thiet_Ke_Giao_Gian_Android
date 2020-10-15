@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#191818"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffff"
+        android:text="Hello world,FrameLayout Activity!" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="270dp">
+
+        <FrameLayout
+            android:id="@+id/containerr"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="0dp">
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="25dp">
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="40dp">
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="60dp">
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="80dp">
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="103dp">
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="123dp"></FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr7"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="140dp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr8"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="168dp"></FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/containerr9"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="183dp"></FrameLayout>
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bai2_lap8</string>
+    <string-array name="titel">
+        <item>Titel 1</item>
+        <item>Titel 2</item>
+        <item>Titel 3</item>
+        <item>Titel 4</item>
+        <item>Titel 5</item>
+    </string-array>
+    <string-array name="sub_titel">
+        <item>SubTitel 1</item>
+        <item>SubTitel 2</item>
+        <item>SubTitel 3</item>
+        <item>SubTitel 4</item>
+        <item>SubTitel 5</item>
+    </string-array>
+</resources>

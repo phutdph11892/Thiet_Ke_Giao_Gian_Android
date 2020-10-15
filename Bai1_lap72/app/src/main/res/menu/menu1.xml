@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/refesh"
+    android:icon="@mipmap/ic_launcher"
+    android:title="Refesh"/>
+    <item android:id="@+id/bakup"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Bakup"/>
+    <item android:id="@+id/child"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Child"/>
+</menu>

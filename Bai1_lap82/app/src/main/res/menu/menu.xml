@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<item android:id="@+id/resust"
+    android:icon="@mipmap/ic_launcher"
+    android:title="Resurt"/>
+    <item android:id="@+id/black"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Black"/>
+    <item android:id="@+id/chilk"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Chilk"/>
+</menu>

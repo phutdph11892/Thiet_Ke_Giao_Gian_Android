@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bai5_lap7</string>
+    <string name="recent_news">Mui ne,sa mac cua Viet nam</string>
+    <string name="in_news">Bàu Trắng được hình thành từ lâu đời, xưa kia là một hồ lớn, sau này người 
+        dân đắp đập cát chạy vắt ngang hồ để đi qua. Từ đó hồ lớn này được chia thành 2 phần: hồ nhỏ và hồ lớn. 
+        Trong tiếng địa phương “bàu” có nghĩa là “hồ”, chính vì vậy, hồ nhỏ có cái tên Bàu Ông và hồ lớn được gọi là Bàu Bà.</string>
+    <string name="publish_date">2020-6-8</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bai1_lap5</string>
+
+    <string-array name="mau">
+<item>Red</item>
+        <item>Gren</item>
+        <item>Blu</item>
+    </string-array>
+    <string-array name="color">
+        <item>Red</item>
+        <item>Gren</item>
+        <item>Blu</item>
+    </string-array>
+</resources>
